@@ -1,0 +1,7 @@
+/data/*
+!/data/
+!/data/.gitkeep
+models/*
+!/models/
+!/models/.gitkeep
+.python-version
