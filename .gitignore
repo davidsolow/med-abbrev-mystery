@@ -4,4 +4,10 @@
 models/*
 !/models/
 !/models/.gitkeep
+tokenized_medal_inputs/*
+!/tokenized_medal_inputs/
+!/tokenized_medal_inputs/.gitkeep
+vocabulary/*
+!/vocabulary/
+!/vocabulary/.gitkeep
 .python-version
