@@ -1,1 +1,10 @@
 .DS_Store
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+tokenized_medal_inputs/*
+!tokenized_medal_inputs/.gitkeep
+vocabulary/*
+!vocabulary/.gitkeep
+!.python-version
